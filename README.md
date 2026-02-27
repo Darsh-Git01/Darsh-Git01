@@ -23,6 +23,11 @@
 ## 👋 About Me
 I’m an AI Engineer passionate about building intelligent, data-driven automation systems.<br>🎓 Currently pursuing a Master’s in Artificial Intelligence<br>    🎓 August 2025 graduate with a Bachelor’s in Mechatronics Engineering<br>✨ I enjoy creating machine learning solutions that automate decision-making and solve real-world  problems.<br>🌱 Currently exploring AI-driven automation and intelligent systems and applied machine learning<br>💡 Open to machine learning and predictive modelling collaborations<br>🎧 Interests: music, cars, and aviation technology ✈️<br>📫 Reach me at: darshchandnani2@gmail.com
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" />
+</p>
 
 
 
